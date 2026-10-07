@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.233" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validating signup feature" name="Validating using valid email" time="0.026">
+<system-out><![CDATA[
+Given User has to enter the correct email id................................passed
+Then it should navigate to main cart........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
